@@ -1,6 +1,6 @@
 # Hi there, I'm Asma Muzammil 👋
 
-### **QA Lead | Senior Quality Engineer | Founder @ WIT & Bug Busters SL** 🚀
+### **QA Lead | Senior Quality Engineer | Founder @ WiT & Bug Busters SL** 🚀
 
 I am an **ISTQB-Certified QA Lead** with **8+ years of cross-functional experience** across operations, training, and quality engineering. I specialize in **QA Process Optimization, Automation, Performance, and AI-Driven Testing**, having delivered **30+ global projects** across the UK, USA, UAE, Germany, and Sri Lanka.
 
